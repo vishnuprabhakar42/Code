@@ -7,8 +7,8 @@ class Default_construct
 {
 public:
 	int a, b;
- 
-	// Default Constructor
+
+	// Default Constructor(Vishnu Prabhakar)
 	Default_construct()
 	{
 		a = 100;
