@@ -14,7 +14,7 @@ class Rectangle {
       length = l;
       breadth = b;
     }
- 
+//How is the day man; 
     double calculateArea() {
       return length * breadth;
     }
@@ -31,6 +31,4 @@ Rectangle obj2(13,8);
  
   return 0;
 
-  // i have written this for checking how this looks in git hub
-  //
 }
